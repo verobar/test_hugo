@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on デモサイトです</title>
-    <link>http://example.org/post/index.xml</link>
+    <link>https://verobar.github.io/test_hugo/post/index.xml</link>
     <description>Recent content in Posts on デモサイトです</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Mar 2017 14:40:29 +0900</lastBuildDate>
-    <atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://verobar.github.io/test_hugo/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>good to great 2</title>
-      <link>http://example.org/post/good-to-great-2/</link>
+      <link>https://verobar.github.io/test_hugo/post/good-to-great-2/</link>
       <pubDate>Sun, 26 Mar 2017 14:40:29 +0900</pubDate>
       
-      <guid>http://example.org/post/good-to-great-2/</guid>
+      <guid>https://verobar.github.io/test_hugo/post/good-to-great-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>good to great</title>
-      <link>http://example.org/post/good-to-great/</link>
+      <link>https://verobar.github.io/test_hugo/post/good-to-great/</link>
       <pubDate>Sun, 26 Mar 2017 14:36:47 +0900</pubDate>
       
-      <guid>http://example.org/post/good-to-great/</guid>
+      <guid>https://verobar.github.io/test_hugo/post/good-to-great/</guid>
       <description>&lt;p&gt;こんにちは
 私は末次です。ブログ記事を書きます。&lt;/p&gt;
 
